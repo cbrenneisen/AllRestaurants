@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  AllRestaurants
+
+  Created by Carl Brenneisen on 4/2/22.
+  
+*/
+
+"errorNetwork" = "Sorry, it looks like we're having network issues - please check your connection and try again.";
+"errorLocation" = "We can't get your location - please check to make sure location services are enabled.";
+"filter" = "Filter";
+"list" = "List";
+"map" = "Map";
+"retry" = "Try Again";
+"search" = "Search for a restaurant";
+
